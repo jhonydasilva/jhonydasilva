@@ -17,6 +17,11 @@
 
 ---
 
+### Meu GitHub Stats
+![Jhony GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonydasilvabarrera&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+---
+
 ### Sistemas operacionais que possuo experiência
 <a href="https://www.microsoft.com/windows" target="_blank">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
@@ -50,11 +55,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### Meu GitHub Stats
-![Jhony GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonydasilvabarrera&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
