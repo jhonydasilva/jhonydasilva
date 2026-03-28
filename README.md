@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor em Formação com foco em criar soluções eficientes e aprender novas tecnologias. Atualmente, aplicando minha expertise em Java, JavaScript, TypeScript, React, React Native, Node.js, Spring Boot, PostgreSQL, MongoDB e Docker.
 
-🚀 Além do código, busco sempre uma visão analítica para resolver problemas e estou em constante aprendizado com metodologias ágeis e boas práticas de desenvolvimento.
+🚀 Além do conhecimento técnico, trago um olhar analítico e foco em otimização de processos, sempre alinhado às melhores práticas de desenvolvimento e arquitetura de software. Trabalho continuamente com metodologias ágeis (SCRUM e Kanban), garantindo entregas organizadas e eficientes.
 
 🎓 Acadêmico de Ciência da Computação na ESTÁCIO.
 
